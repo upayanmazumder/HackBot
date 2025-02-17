@@ -1,0 +1,4 @@
+services:
+  backend:
+    image: ghcr.io/upayanmazumder/HackBot:latest
+    build: .
