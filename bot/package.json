@@ -1,0 +1,29 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "A mighty discord bot for managing hackathons!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upayanmazumder/HackBot.git"
+  },
+  "keywords": [
+    "hackathons",
+    "online",
+    "programming",
+    "competition"
+  ],
+  "author": "upayanmazumder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upayanmazumder/HackBot/issues"
+  },
+  "homepage": "https://github.com/upayanmazumder/HackBot#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
