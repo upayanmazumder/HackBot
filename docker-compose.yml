@@ -1,4 +1,4 @@
 services:
   backend:
-    image: ghcr.io/upayanmazumder/HackBot:latest
+    image: ghcr.io/upayanmazumder/hackbot:latest
     build: .
